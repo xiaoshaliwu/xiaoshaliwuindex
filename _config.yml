@@ -1,14 +1,14 @@
 
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        欢迎你
+tagline:      这是我的主页
 baseurl:      ""
 paginate:     1
-locale:       "en"
+locale:       "zh_CN"
 
 # About/contact
 author:
-  name:       Author name
+  name:       名字
   url:        http://yourhomepage.com 
 
 # Gems
